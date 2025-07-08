@@ -13,11 +13,11 @@
     </tr>
 </table>
 
-<p align="center">
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd" />
-    <img src="splat.png" width="20%">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd" width="40%"/>
+  <img src="splat.png" width="20%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="40%"/>
+</div>
 
 <table width="100%">
     <tr>
@@ -42,7 +42,9 @@
 
 <!--Separator-->
 <p align="center">
-    <img src="splat.png" width="20%">
+    <img align="left"   src="splat.png" width="20%">
+    <img align="center" src="splat.png" width="20%">
+    <img align="right"  src="splat.png" width="20%">
 </p>
 
 <table>
