@@ -3,7 +3,9 @@
         <td width = "85%" >
             <h1 align="left">Hi 👋, I'm Zaid Díaz Cristóbal</h1>
             <!--Contador de visitas-->
-            <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=0e75b6&style=flat" alt="diczd" /> </p>
+            <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=000000&style=flat" alt="diczd" /> </p>
+            <!--Lenguajes usados-->
+            <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diczdc&show_icons=true&locale=en&layout=compact" alt="diczdc" /></p>   
         </td>
         <td>
             <image src = "header.gif">
@@ -12,7 +14,9 @@
 </table>
 
 <p align="center">
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd" />
     <img src="splat.png" width="20%">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <table width="100%">
