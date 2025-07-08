@@ -6,13 +6,13 @@
             <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=0e75b6&style=flat" alt="diczd" /> </p>
         </td>
         <td>
-            <image src = "https://i.redd.it/gvzyed7guqsd1.gif">
+            <image src = "header.gif">
         </td>
     </tr>
 </table>
 
 <p align="center">
-    <img src="https://metaphor.atlus.com/media/img/characters/chara-portrait-bg.png" width="20%">
+    <img src="splat.png" width="20%">
 </p>
 
 <table width="100%">
@@ -31,20 +31,20 @@
         </td>
         <!--Imagen 1-->
         <td align="right" width="40%">
-            <img src="https://i.redd.it/metaphor-refantazio-protagonist-menu-gifs-v0-aidba58guqsd1.gif?width=2958&auto=webp&s=62aa64e850c8cd616037541a6e0a6e2344ab970b"/>
+            <img src="connect_wm.gif"/>
         </td>
     </tr>
 </table>
 
 <!--Separator-->
 <p align="center">
-    <img src="https://metaphor.atlus.com/media/img/characters/chara-portrait-bg.png" width="20%">
+    <img src="splat.png" width="20%">
 </p>
 
 <table>
     <tr>
         <td width= "40%">
-            <img src = "https://i.redd.it/3msr5c7guqsd1.gif">
+            <img src = "languages_t.gif">
         </td>
         <td>
             <h3 align="left">Languages and Tools:</h3>
