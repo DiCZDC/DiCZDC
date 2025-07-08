@@ -5,7 +5,7 @@
             <!--Contador de visitas-->
             <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=000000&style=flat" alt="diczd" /> </p>
             <!--Lenguajes usados-->
-            <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diczdc&show_icons=true&locale=en&layout=compact" alt="diczdc" /></p>   
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diczdc&show_icons=true&locale=en&layout=compact" alt="diczdc" />
         </td>
         <td>
             <image src = "header.gif">
@@ -13,11 +13,20 @@
     </tr>
 </table>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd" width="40%"/>
-  <img src="splat.png" width="20%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="40%"/>
-</div>
+<table width 100%>
+    <tr>
+        <td width= 40%>
+            <img src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd">
+        </td>
+        <td width =20%>
+            <img src="splat.png"/>
+        </td>
+        <td width = 40%>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+        </td>
+    </tr>
+</table>
+
 
 <table width="100%">
     <tr>
