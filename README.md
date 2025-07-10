@@ -1,6 +1,6 @@
 <table width= "100%" >
     <tr >
-        <td width = "85%" >
+        <td width = "75%" >
             <h1 align="left">Hi 👋, I'm Zaid Díaz Cristóbal</h1>
             <!--Contador de visitas-->
             <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=000000&style=flat" alt="diczd" /> </p>
@@ -34,12 +34,14 @@
     <!-- Puedes contactarme a través de los siguientes enlaces: -->
 <h3 align="left">Connect with me:</h3>
         <p align="left">
-        <!-- Linkedin-->
-        <a href="https://www.linkedin.com/in/zaid-d%C3%ADaz-crist%C3%B3bal-2189ab331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid díaz cristóbal" height="30" width="40" /></a>
-        <!--Instagram-->
-        <a href="https://instagram.com/crstvbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crstvbl" height="30" width="40" /></a>
-        <!--Codeforces-->
-        <a href="https://codeforces.com/profile/zaiddc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaiddc" height="30" width="40" /></a>
+            <!-- Linkedin-->
+            <a href="https://www.linkedin.com/in/zaid-d%C3%ADaz-crist%C3%B3bal-2189ab331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid díaz cristóbal" height="30" width="40"/> Zaid Díaz Cristóbal</a> 
+            <br><br>
+            <!--Instagram-->
+            <a href="https://instagram.com/crstvbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crstvbl" height="30" width="40" />Crstvbl</a>
+            <br><br>
+            <!--Codeforces-->
+            <a href="https://codeforces.com/profile/zaiddc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaiddc" height="30" width="40" /> ZaidDc</a>
         </p>
         </td>
         <!--Imagen 1-->
@@ -62,23 +64,45 @@
             <img src = "languages_t.gif">
         </td>
         <td>
-            <h3 align="left">Languages and Tools:</h3>
-            <p align="left">
-                <!--c++-->
-                <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-                <!--figma-->
-                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-                <!--Git-->
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-                <!--java-->
-                <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-                <!--postgresql-->
-                <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-                <!--python-->
-                <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-            </p>
+            <h3 align="left">Languages:</h3>
+                <p align="left">
+                    <!--c++-->
+                    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+                    <!--java-->
+                    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+                    <!--python-->
+                    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                    <!-- NextJs-->
+                    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>           
+                </p>
+            <h3 align="left"> Databases:</h3>
+                <p>
+                    <!--postgresql-->
+                    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+                </p>
+            <h3 align="left">Tools:</h3>
+                <p>
+                    <!--figma-->
+                    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+                    <!--Git-->
+                    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+                </p>
+            <h3 align="left"> Game Engines:
+                <p>
+                    <!-- Godot-->
+                    <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/></a>              
+                    </p>
         </td>
     </tr>
 </table>
 
+<img src="footer.gif">
+
+<hr>
+<p align="center">
+    <sub>
+        Hecho por: Zaid Díaz Cristóbal.<br>
+        Créditos a <a href="https://x.com/AspenVesper" target="_blank">@AspenVesper</a> en <span title="anteriormente Twitter">𝕏</span> por los scans utilizados.
+    </sub>
+</p>
 
