@@ -3,12 +3,12 @@
         <td width = "75%" >
             <h1 align="left">Hi 👋, I'm Zaid Díaz Cristóbal</h1>
             <!--Contador de visitas-->
-            <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczd&label=Profile%20views&color=000000&style=flat" alt="diczd" /> </p>
+            <p align="left"> <img src="https://komarev.com/ghpvc/?username=diczdc&label=Profile%20views&color=000000&style=flat" alt="diczdc"/> </p>
             <!--Lenguajes usados-->
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diczdc&show_icons=true&locale=en&layout=compact" alt="diczdc" />
         </td>
         <td>
-            <image src = "header.gif">
+            <image src = "imgs/header.gif">
         </td>
     </tr>
 </table>
@@ -19,7 +19,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=diczdc&show_icons=true&theme=dark&locale=en" alt="diczd">
         </td>
         <td width =20%>
-            <img src="splat.png"/>
+            <img src="imgs/splat.png"/>
         </td>
         <td width = 40%>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=diczdc&theme=dark&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
@@ -46,22 +46,22 @@
         </td>
         <!--Imagen 1-->
         <td align="right" width="60%">
-            <img src="connect_wm.gif"/>
+            <img src="imgs/connect_wm2.gif"/>
         </td>
     </tr>
 </table>
 
 <!--Separator-->
 <p align="center">
-    <img align="left"   src="splat.png" width="20%">
-    <img align="center" src="splat.png" width="20%">
-    <img align="right"  src="splat.png" width="20%">
+    <img align="left"   src="imgs/splat.png" width="20%">
+    <img align="center" src="imgs/splat.png" width="20%">
+    <img align="right"  src="imgs/splat.png" width="20%">
 </p>
 
 <table>
     <tr>
         <td width= "40%">
-            <img src = "languages_t.gif">
+            <img src = "imgs/languages_t.gif">
         </td>
         <td>
             <h3 align="left">Languages:</h3>
@@ -96,13 +96,13 @@
     </tr>
 </table>
 
-<img src="footer.gif">
+<img src="imgs/footer.gif">
 
 <hr>
 <p align="center">
     <sub>
         Hecho por: Zaid Díaz Cristóbal.<br>
-        Créditos a <a href="https://x.com/AspenVesper" target="_blank">@AspenVesper</a> en <span title="anteriormente Twitter">𝕏</span> por los scans utilizados.
+        Créditos a <a href="https://x.com/AspenVesper" target="_blank">@AspenVesper</a> en <span title="anteriormente Twitter">𝕏</span> por los rips utilizados.
     </sub>
 </p>
 
