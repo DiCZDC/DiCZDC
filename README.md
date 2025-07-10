@@ -30,22 +30,22 @@
 
 <table width="100%">
     <tr>
-        <td width = "400">
-    <!-- Puedes contactarme a través de los siguientes enlaces: -->
-<h3 align="left">Connect with me:</h3>
-        <p align="left">
-            <!-- Linkedin-->
-            <a href="https://www.linkedin.com/in/zaid-d%C3%ADaz-crist%C3%B3bal-2189ab331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid díaz cristóbal" height="30" width="40"/> Zaid Díaz Cristóbal</a> 
-            <br><br>
-            <!--Instagram-->
-            <a href="https://instagram.com/crstvbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crstvbl" height="30" width="40" />Crstvbl</a>
-            <br><br>
-            <!--Codeforces-->
-            <a href="https://codeforces.com/profile/zaiddc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaiddc" height="30" width="40" /> ZaidDc</a>
-        </p>
+        <td>
+            <!-- Puedes contactarme a través de los siguientes enlaces: -->
+            <h3 align="left">Contact me:</h3>
+                <p align="left">
+                    <!-- Linkedin-->
+                    <a href="https://www.linkedin.com/in/zaid-d%C3%ADaz-crist%C3%B3bal-2189ab331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid díaz cristóbal" height="30" width="40"/> Zaid Díaz Cristóbal</a> 
+                    <br><br>
+                    <!--Instagram-->
+                    <a href="https://instagram.com/crstvbl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crstvbl" height="30" width="40" />Crstvbl</a>
+                    <br><br>
+                    <!--Codeforces-->
+                    <a href="https://codeforces.com/profile/zaiddc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaiddc" height="30" width="40" /> ZaidDc</a>
+                </p>
         </td>
         <!--Imagen 1-->
-        <td align="right" width="40%">
+        <td align="right" width="60%">
             <img src="connect_wm.gif"/>
         </td>
     </tr>
